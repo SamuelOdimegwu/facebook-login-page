@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    margin-top: 300px;
+    background-color: white;
+    position: relative;
+}
+
+img {
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+input {
+    margin: 10px 0px 10px 0px;
+    width: 500px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    position: relative;
+    font-size: 25px;
+}
+
+.password {
+    margin-bottom: 30px;
+}
+
+.btn1,
+.btn2 {
+    width: 170px;
+    height: 40px;
+    margin-top: 10px;
+    position: relative;
+    font-size: 15px;
+}
+
+.btn1:hover,
+.btn2:hover {
+    color: white;
+    background-color: #3b5998;
+    width: 180px;
+    height: 40px;
+    border: 1px solid;
+}
+
+.link {
+    margin-top: 20px;
+}
+
+a {
+    color: #3b5998;
+    text-decoration: none;
+    font-size: 20px;
+}
